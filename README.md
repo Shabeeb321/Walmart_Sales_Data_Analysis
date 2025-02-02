@@ -3,7 +3,6 @@
 ## Project Overview
 
 
-Uploading IMG_2688.MOV…
 
 
 
