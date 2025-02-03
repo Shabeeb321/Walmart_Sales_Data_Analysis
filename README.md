@@ -6,7 +6,6 @@
 
 
 
-https://github.com/user-attachments/assets/e9dd2aa1-daec-472c-bd87-49faca10937c
 
 
 
@@ -84,7 +83,12 @@ This project is an end-to-end data analysis solution designed to extract critica
 - **Kaggle API Key** (for data downloading)
 
 
----
+---  
+
+
+
+https://github.com/user-attachments/assets/56ed6a05-ac89-4bd6-9184-4413a4c181d2
+
 
 
 ## Results and Insights
