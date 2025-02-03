@@ -12,7 +12,14 @@
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. I utilized Python for data processing and analysis, PostgreSQL for advanced querying, and structured problem-solving techniques to solve key business questions. 
 
----
+---  
+
+
+
+https://github.com/user-attachments/assets/29036a81-b9ae-443c-887c-20cc831b639b
+
+
+
 
 ## Project Steps
 
