@@ -74,6 +74,12 @@ This project is an end-to-end data analysis solution designed to extract critica
 
 ---
 
+
+https://github.com/user-attachments/assets/97cefe11-34ec-4fa7-a1a9-6d1099c803cf
+
+
+
+
 ## Requirements
 
 - **Python 3.8+**
